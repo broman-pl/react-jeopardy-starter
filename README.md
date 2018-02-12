@@ -12,3 +12,12 @@ Use two components.
 *One component should display the question, category, and point value.
 
 * The other should handle grading the answer and displaying the users score.
+
+**Extra Hard Nonsense**  
+Use two components. 
+
+* Instead of displaying a random question, display 3 random categories. 
+
+* Display the question for the category selected
+
+* The rest of the application should work the same
